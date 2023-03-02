@@ -1,0 +1,14 @@
+{
+  "name": "js-inject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.14.4",
+    "@types/uglify-js": "^3.17.1"
+  },
+  "dependencies": {
+    "javascript-obfuscator": "^4.0.2",
+    "uglify-js": "^3.17.4"
+  }
+}
